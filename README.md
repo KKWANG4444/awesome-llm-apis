@@ -1,5 +1,7 @@
 # 🚀 Ultimate Guide to LLM Models and APIs 🌟
 
+> 🇨🇳 **国内直连全球 572 个 AI 模型？** 一个 Key 搞定 → [**www.aifast.club**](https://www.aifast.club) · 无需代理 · 微信/支付宝
+
 Welcome to your comprehensive guide for selecting the perfect Large Language Model (LLM) or API for your projects! Whether you're looking for free options, self-hostable solutions, or powerful paid APIs, we've got you covered. Let's dive in! 💻🔍
 
 ## Free LLM APIs 🎁
