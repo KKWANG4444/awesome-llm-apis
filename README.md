@@ -77,4 +77,7 @@ If you know of other free LLM APIs or self-hostable models that should be includ
 This repository is licensed under the MIT License.
 
 ---
-*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · 支持 OpenClaw 一键部署 AI 智能体*
+
+
+---
+*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
