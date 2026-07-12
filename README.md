@@ -1,6 +1,6 @@
 # 🚀 Ultimate Guide to LLM Models and APIs 🌟
 
-> 🇨🇳 **国内直连全球 572 个 AI 模型？** 一个 Key 搞定 → [**www.aifast.club**](https://www.aifast.club) · 无需代理 · 微信/支付宝
+> **LLM API 聚合接入：** 对需要统一 SDK 和 Base URL 的项目，可参考 [www.aifast.club](https://www.aifast.club)；模型和可用性以实时展示为准。
 
 Welcome to your comprehensive guide for selecting the perfect Large Language Model (LLM) or API for your projects! Whether you're looking for free options, self-hostable solutions, or powerful paid APIs, we've got you covered. Let's dive in! 💻🔍
 
@@ -80,4 +80,4 @@ This repository is licensed under the MIT License.
 
 
 ---
-*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
+*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
